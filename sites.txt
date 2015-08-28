@@ -1,0 +1,7 @@
+http://localhost:3000/
+http://localhost:3000/articles
+http://localhost:3000/articles/4
+http://localhost:3000/articles/5
+http://localhost:3000/articles/6
+http://localhost:3000/articles/4/edit
+http://localhost:3000/articles/new
